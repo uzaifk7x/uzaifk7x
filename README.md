@@ -2,8 +2,7 @@
 <h3 align="center">This is my personal account. To view to original account please search for "uzzzaif"</h3>
 
 - 👨‍💻 My original account [https://github.com/uzzzaif](https://github.com/uzzzaif)
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
